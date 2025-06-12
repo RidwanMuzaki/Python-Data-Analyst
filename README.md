@@ -11,3 +11,13 @@ Projects may include:
 - Statistical summaries
 - Visualizations
 - Domain-specific insights
+
+## 🛠️ Tools & Libraries Used
+
+- Python 3.x
+- Jupyter Notebook (`.ipynb`)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
